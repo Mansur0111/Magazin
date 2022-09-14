@@ -12,6 +12,7 @@ import android.widget.ImageView;
 public class MainActivity extends AppCompatActivity {
 ImageView imageView;
 DrawerLayout drawerLayout;
+String a="";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

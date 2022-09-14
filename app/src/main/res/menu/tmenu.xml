@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/item1"
+android:icon="@drawable/ic_baseline_group_24"
+    android:title="New Group"></item>
+    <item android:id="@+id/item2"
+android:icon="@drawable/ic_baseline_person_24"
+        android:title="Contact"></item>
+    <item android:id="@+id/item3"
+android:icon="@drawable/ic_baseline_call_24"
+        android:title="Call"></item>
+    <item android:id="@+id/item4"
+android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"></item>
+    <item android:id="@+id/item5"
+android:icon="@drawable/ic_baseline_info_24"
+        android:title="About"></item>
+</menu>

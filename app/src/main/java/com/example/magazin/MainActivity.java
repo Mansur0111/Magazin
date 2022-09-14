@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 ImageView imageView;
 DrawerLayout drawerLayout;
 String a="";
+int b=7;
+int c=007;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
